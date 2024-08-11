@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BE UNIQUE</title>
+</head>
+<body>
+<h1>bE uNIQUE</h1>
+<h3>Love your life style don't be like cartoon character</h3>
+<script>
+function wish(){
+window.alert("Welcome To The bE uNIQUE Styles");
+document.write("Good Afternoon Every One!");
+}
+function mens(){
+window.alert("Welcome To The bE uNIQUE Styles");
+document.write("Good Afternoon Sir!");
+}
+function womens(){
+window.alert("Welcome To The bE uNIQUE Styles");
+document.write("Good Afternoon Mam!");
+}
+function kids(){
+window.alert("Welcome To The bE uNIQUE Styles");
+document.write("Good Afternoon kid!");
+}
+
+</script>
+
+<form>
+<input type ="button" value = "General" onclick="wish();">
+<input type = "button" value ="Mens" onclick="mens();">
+<input type = "button" value ="Womens" onclick="womens();">
+<input type = "button" value ="kids" onclick="kids();">
+</form>
+
+</body>
+</html>
